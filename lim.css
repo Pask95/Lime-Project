@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(Lim/background.jpg);
+    background-size: 100%;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+    margin: 100px 350px 100px 350px;
+    padding: 80px 0px 150px 0px;
+}
+
+h1 {
+    color: rgb(42, 255, 4);
+}
+
+span {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.biciInfo {
+    color: white;
+    text-align: left;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#opzioni {
+    background-color: rgb(42, 255, 4);
+    margin: 10px 150px 0px 150px;
+    padding: 20px;
+}
+
+#carica1 {
+    background-color: orange;
+    padding: 15px;
+    margin: 0px 65% 0px 150px;
+    border-radius: 5px;
+}
+
+#carica2 {
+    background-color: rgb(0, 202, 0);
+    padding: 15px;
+    margin: 0px 30% 0px 150px;
+    border-radius: 5px;
+}
+
+#carica3 {
+    background-color: rgb(202, 26, 26);
+    padding: 15px;
+    margin: 0px 83% 0px 150px;
+    border-radius: 5px;
+}
